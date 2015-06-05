@@ -1,0 +1,5 @@
+<resources>
+    <string name="google_youtube_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyDNysvs9KTrA9bEjHh4DFFkZxbydVHT0nc
+    </string>
+</resources>

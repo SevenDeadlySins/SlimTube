@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SlimTube</string>
+
+    <string name="welcome">Welcome to SlimTube!</string>
+    <string name="search_title">Search For Videos</string>
+    <string name="history_title">History</string>
+    <string name="history_description">history icon</string>
+    <string name="search_hint">Enter keywords…</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_quality">Quality</string>
+    <string name="dialog_quality">Quality</string>
+    <string name="toast_quality_unavailable">Video info still loading</string>
+    <string name="thumbnail_description">Video Thumbnail</string>
+
+    <string name="title_activity_player">Player</string>
+    <string name="default_time">00:00</string>
+    <string name="play_button_description">Play Button</string>
+
+    <string name="drm_error_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="drm_error_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="drm_error_unknown">An unknown DRM error occurred</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">HistoryActivity</string>
+
+</resources>

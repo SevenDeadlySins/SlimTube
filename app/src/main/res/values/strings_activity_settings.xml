@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_limit_mobile_data">Limit mobile data usage</string>
+    <string name="pref_description_limit_mobile_data">Only stream HD video on Wi-Fi.</string>
+</resources>
